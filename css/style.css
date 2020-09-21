@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	/* background-image: url(../img/u=3079424935,3426595541&fm=26&gp=0.jpg); */
+}
+
+.1 {
+	margin: 0px auto;
+	margin-top: -50px;
+}
+
+table {
+	margin: auto;
+}
+
+.member {
+	margin-left: 400px;
+	margin-top: 270px;
+	width: 800px;
+	height: 200px;
+}
+
+.mui-btn {
+	width: 150px;
+	height: 150px;
+}
